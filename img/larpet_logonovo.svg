@@ -1,0 +1,18 @@
+<svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+
+  <text x="60" y="78" text-anchor="middle"
+    font-family="Georgia, serif"
+    font-size="72" font-weight="800"
+    fill="#FF6B6B">Lar</text>
+
+  <text x="188" y="78" text-anchor="middle"
+    font-family="Georgia, serif"
+    font-size="72" font-weight="800"
+    fill="#1A1A2E">Pet</text>
+
+  <rect x="20"  y="90" width="20" height="5" rx="2.5" fill="#FFD93D"/>
+  <rect x="45"  y="90" width="20" height="5" rx="2.5" fill="#6BCB77"/>
+  <rect x="70"  y="90" width="20" height="5" rx="2.5" fill="#4ECDC4"/>
+  <rect x="95"  y="90" width="20" height="5" rx="2.5" fill="#C77DFF"/>
+  <rect x="120" y="90" width="20" height="5" rx="2.5" fill="#FF6B6B"/>
+</svg>
